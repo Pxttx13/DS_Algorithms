@@ -1,0 +1,6 @@
+#Test files
+/test.c
+/test2.c
+
+#.exe files
+**/*.exe
